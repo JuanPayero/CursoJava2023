@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class PiedraPapelTijeraAndOr {
+public class tarea9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
