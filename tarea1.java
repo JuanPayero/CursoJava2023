@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tarea1 {
+public class tarea1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
