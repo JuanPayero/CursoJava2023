@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class NumerosAleatoriosMaxyMin {
+public class tarea20 {
     public static void main(String[] args) {
         int contador = 0;
         int maximo = Integer.MIN_VALUE; // Valor mínimo posible para un entero
