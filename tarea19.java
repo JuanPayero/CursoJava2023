@@ -1,7 +1,7 @@
 
 import java.util.Random;
 
-public class NumerosAleatorios {
+public class tarea19 {
     public static void main(String[] args) {
         int contador = 0;
         int suma = 0;
