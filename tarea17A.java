@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class EvaluacionesAlumnoCiclos {
+public class tarea17A {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
