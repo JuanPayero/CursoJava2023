@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CategoriaFamiliar {
+public class tarea4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
