@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class EvaluacionAlumnosCiclosNoIf {
+public class tarea17B {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
